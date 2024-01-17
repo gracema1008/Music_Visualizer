@@ -1,4 +1,4 @@
-## This code was produced as a part of Grace Ma's 2023 Rise application.
+## This code was produced as a part of a 2023 Rise application.
  ```
 This code is a visualizer that can aid in the teaching of music to deaf/hard of hearing students.
 In the context of this particular application, the teaching materials for the music class is linked below.
